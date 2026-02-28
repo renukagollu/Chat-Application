@@ -1,8 +1,5 @@
 # Chat-Application
 
-# Chat Application Backend (bunq coding assignment)
-
-
 
 This project focuses on readable, well-structured code with clear separation of concerns, dependency injection, and tests.
 
